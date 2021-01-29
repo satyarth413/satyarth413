@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyarth Pandey</h1>
 <h3 align="center">CSE Sophomore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyarth413&label=Profile%20views&color=0e75b6&style=flat" alt="satyarth413" /> </p>
 <img align="right" alt="Coding" width="400" src="https://image.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg">
 
 - 📫 How to reach me *satyarth2002pandey@gmail.com*
